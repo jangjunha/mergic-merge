@@ -1,0 +1,5 @@
+*.pyc
+*.bk
+*.ini
+/venv
+/tmp
